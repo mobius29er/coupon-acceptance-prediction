@@ -80,4 +80,4 @@ All visualizations include:
 
 ## 📬 Contact
 
-For questions or collaborations, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/jeremyfoxx/) or check out more projects at [jeremyfoxx.com](https://www.jeremyfoxx.com/).
+For questions or collaborations, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/jeremyfoxx/) or check out more projects at [foxxception.com](https://www.foxxception.com/).
